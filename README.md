@@ -1,7 +1,7 @@
 # Real-Time Data Analytics Dashboard
 
 ## Live Dashboard
- https://ashutosh-345.github.io/realtime-dashboard
+ https://realtime-dashboard-jatgkwfcmqd6zfrrcdz5do.streamlit.app/
 
 ## Project 3 - Navyan Data Analytics Internship
 
